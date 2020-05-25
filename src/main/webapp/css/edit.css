@@ -1,0 +1,18 @@
+.flex {
+    position: fixed;
+    left:140px;
+    top: 42px;
+    justify-content: center;
+}
+.titleInEditor{
+    width: 200px;
+    position: fixed;
+    left:80px;
+    top: 100px; 
+}
+.bodyInEditor{
+    width: 200px;
+    position: fixed;
+    left: 80px;
+    top: 150px; 
+}

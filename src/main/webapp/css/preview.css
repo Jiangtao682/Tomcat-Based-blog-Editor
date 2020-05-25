@@ -1,0 +1,6 @@
+.flex {
+    position: fixed;
+    left:5px;
+    top: 5px;
+    justify-content: center;
+}

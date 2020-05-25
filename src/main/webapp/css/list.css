@@ -1,0 +1,38 @@
+.flex {
+    position: fixed;
+    left:140px;
+    top: 42px;
+    justify-content: center;
+    }
+#delete {
+    width: 70px;
+    font-size:10px;
+}
+#open {
+    background-color:rgb(255, 209, 0);
+    color:rgb(39, 116, 174);
+    width: 70px;
+    font-size:10px;
+}
+table {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    position: fixed;
+    top: 70px;
+    left:20px;
+}
+th {
+    padding: 5px;
+    font-family: "Futura";
+    font-size: 12px;
+    font-weight: 100;
+    text-align:center;
+}
+td {
+    height: 20px;
+    padding: 5px;
+    text-align:center;
+    font-family: monospace;
+}
